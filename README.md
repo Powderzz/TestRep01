@@ -1,7 +1,7 @@
 <p>&nbsp;</p>
 <!-- #######  YAY, I AM THE SOURCE EDITOR! #########-->
 <h1 style="color: #5e9ca0; text-align: left;">You can edit <span style="color: #2b2301;">this demo</span> text!</h1>
-<p><img style="float: right;" src="https://lh3.googleusercontent.com/4IwcS7kbvAVxK_-RPiAgJKIU5WPEe4p1jqZZnBdw32NEfibVEyR0jSB0n8bjrsk89mgaQN9KyU_qnWl6Sw3Kcuhnj4oQvlA07XeaLQ=s0" alt="" width="146" height="146" /></p>
+<p><img style="float: right;" src="CCRLogo.png" alt="" width="146" height="146" /></p>
 <h2 style="color: #2e6c80;">How to use the editor:</h2>
 <p>Paste your documents in the visual editor on the left or your HTML code in the source editor in the right. <br />Edit any of the two areas and see the other changing in real time.&nbsp;</p>
 <p>Click the <span style="background-color: #2b2301; color: #fff; display: inline-block; padding: 3px 10px; font-weight: bold; border-radius: 5px;">Clean</span> button to clean your source code.</p>
